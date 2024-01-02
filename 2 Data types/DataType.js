@@ -17,7 +17,7 @@ const surName = "Tamang";
 
 
 // 2. Numbers
-var class = 11;
+var age = 11;
 let length = 8;
 const id = 7;
 
@@ -26,4 +26,7 @@ let x = true;
 let y = false;
 
 // 4. Undefined
-var undefinedVar;
+var undefinedVar;  // not assigning values to this variable
+
+// 5.
+let number = null;
