@@ -1,13 +1,13 @@
 // there are 8 data types in jvascript
 
-// 1. String
-// 2. Number
-// 3. Boolean
-// 4. Undefined
-// 5. Null
-// 6. Symbol
-// 7. Object
-// 8 Bigint
+1. String
+2. Number
+3. Boolean
+4. Undefined
+5. Null
+6. Symbol
+7. Object
+8 Bigint
 
 
 // 1. Strings
