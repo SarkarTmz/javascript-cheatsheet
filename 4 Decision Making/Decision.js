@@ -52,3 +52,40 @@ if (x > 10) {
 } else {
     console.log("x is less than 10");
 }
+
+// **** 3 switch statement ****
+ // * The switch statement is used to perform different actions based on different conditions.
+
+ switch (expression) {
+    case value1:
+        // Code to be executed if expression is equal to value1
+        break;
+    case value2:
+        // Code to be executed if expression is equal to value2
+        break;
+    // More cases as needed
+    default:
+        // Code to be executed if none of the cases match
+}
+
+let day = "Monday";
+
+switch (day) {
+    case "Monday":
+        console.log("It's the start of the week");
+        break;
+    case "Friday":
+        console.log("It's almost the weekend");
+        break;
+    default:
+        console.log("It's a regular day");
+}
+
+// **** 4 ternary operator ****
+ // * The ternary operator is a concise way to write a simple if-else statement.
+
+ let result = (condition) ? trueValue : falseValue;
+
+let age = 20;
+let eligibility = (age >= 18) ? "Eligible to vote" : "Not eligible to vote";
+console.log(eligibility);
