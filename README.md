@@ -1,1 +1,3 @@
 ##Javascript cheatsheet
+
+###By Sarkar
