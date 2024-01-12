@@ -30,3 +30,10 @@ var undefinedVar;  // not assigning values to this variable
 
 // 5.
 let number = null;
+
+// 6. Symbols
+// Create a Symbol
+const mySymbol = Symbol();
+
+console.log(mySymbol);
+// expected output: Symbol()
