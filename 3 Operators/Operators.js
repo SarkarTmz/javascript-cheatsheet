@@ -13,6 +13,7 @@ an operator is a special symbol or keyword that performs operations on one or mo
 
 
 1. Arithmetic Operators:
+Arithmetic operators in JavaScript are symbols that perform mathematical operations on operands. Here are the basic arithmetic operators:
 + (Addition)
 - (Subtraction)
 * (Multiplication)
